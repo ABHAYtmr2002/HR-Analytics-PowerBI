@@ -35,15 +35,13 @@ This data is used to analyze **attrition trends and workforce characteristics**.
 
 ## 📥 Download Power BI File
 
-You can download the Power BI project file here:
-
-[Download HR Analytics Dashboard](HRAnalyticsDashboard.pbix)
+[Download Power BI Dashboard](HR Analytics Dashboard.pbix)
 
 ---
 
 ## 📈 Dashboard Preview
 
-![HR Analytics Dashboard](HRAnalyticsDashboard.png)
+![HR Dashboard](HR Analytics Dashboard.png)
 
 ---
 
